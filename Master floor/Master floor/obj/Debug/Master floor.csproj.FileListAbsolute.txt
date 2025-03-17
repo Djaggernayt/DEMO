@@ -1,0 +1,24 @@
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\Master floor.exe.config
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\Master floor.exe
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\Master floor.pdb
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\EntityFramework.dll
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\EntityFramework.xml
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.csproj.AssemblyReference.cache
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\MainWindow.g.cs
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\App.g.cs
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor_Content.g.cs
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor_MarkupCompile.cache
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor_MarkupCompile.lref
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\MainWindow.baml
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.g.resources
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master_floor.Properties.Resources.resources
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.csproj.GenerateResource.cache
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master f.5068A4CC.Up2Date
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.exe
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\Master floor.pdb
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\AddPartner.g.cs
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\AddPartner.baml
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\History.g.cs
+C:\Users\Arsen\Downloads\demo\DEMO\Master floor\Master floor\obj\Debug\History.baml

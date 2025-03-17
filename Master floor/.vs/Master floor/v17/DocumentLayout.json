@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\countmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\countmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\partners_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\partners_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|c:\\users\\arsen\\downloads\\demo\\demo\\master floor\\master floor\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{722D25B9-2AB8-4472-842F-4540239935C6}|Master floor\\Master floor.csproj|solutionrelative:master floor\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\CountMaterial.cs",
+              "RelativeDocumentMoniker": "Master floor\\CountMaterial.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\CountMaterial.cs",
+              "RelativeToolTip": "Master floor\\CountMaterial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:11:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\History.xaml.cs",
+              "RelativeDocumentMoniker": "Master floor\\History.xaml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\History.xaml.cs",
+              "RelativeToolTip": "Master floor\\History.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:56:04.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Product.cs",
+              "RelativeDocumentMoniker": "Master floor\\Product.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Product.cs",
+              "RelativeToolTip": "Master floor\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:53:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partners_product.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Partners_product.cs",
+              "RelativeDocumentMoniker": "Master floor\\Partners_product.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Partners_product.cs",
+              "RelativeToolTip": "Master floor\\Partners_product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:54:12.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partners.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Partners.cs",
+              "RelativeDocumentMoniker": "Master floor\\Partners.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\Partners.cs",
+              "RelativeToolTip": "Master floor\\Partners.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADgvxcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:53:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.xaml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\History.xaml",
+              "RelativeDocumentMoniker": "Master floor\\History.xaml",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\History.xaml",
+              "RelativeToolTip": "Master floor\\History.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T12:44:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Master floor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Master floor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:47:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPartner.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\AddPartner.xaml.cs",
+              "RelativeDocumentMoniker": "Master floor\\AddPartner.xaml.cs",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\AddPartner.xaml.cs",
+              "RelativeToolTip": "Master floor\\AddPartner.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:13:10.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Master floor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\MainWindow.xaml",
+              "RelativeToolTip": "Master floor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T09:47:41.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPartner.xaml",
+              "DocumentMoniker": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\AddPartner.xaml",
+              "RelativeDocumentMoniker": "Master floor\\AddPartner.xaml",
+              "ToolTip": "C:\\Users\\Arsen\\Downloads\\demo\\DEMO\\Master floor\\Master floor\\AddPartner.xaml",
+              "RelativeToolTip": "Master floor\\AddPartner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-17T10:53:37.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
